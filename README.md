@@ -1,17 +1,18 @@
-Neo Quitter
+Neo Mind
 ==========================================
 
-* Author:    Hannes Mannerheim (<h@nnesmannerhe.im>)
-* Last mod.: Oct, 2014
+* Author:    b1tdreamer (<b1tdreamer@collectivemind.es>)
+* Last mod.: July 2016
 * Version:   1
-* GitHub:    <https://github.com/hannesmannerheim/neo-quitter>
+* GitHub:    <https://github.com/b1tdreamer/GnuSocial-Dark-Theme/>
+* Based on:    <https://github.com/hannesmannerheim/neo-quitter>
 
-Neo Quitter is free  software:  you can  redistribute it  and / or  modify it
+Neo Mind is free  software:  you can  redistribute it  and / or  modify it
 under the  terms of the GNU Affero General Public License as published by
 the Free Software Foundation,  either version three of the License or (at
 your option) any later version.
 
-Neo Quitter is distributed  in hope that  it will be  useful but  WITHOUT ANY
+Neo Mind is distributed  in hope that  it will be  useful but  WITHOUT ANY
 WARRANTY;  without even the implied warranty of MERCHANTABILTY or FITNESS
 FOR A PARTICULAR PURPOSE.  See the  GNU Affero General Public License for
 more details.
@@ -22,15 +23,15 @@ along with Neo Quitter. If not, see <http://www.gnu.org/licenses/>.
 About
 -----
 
-Neo Quitter is based Neo, the standard theme for GNU Social.
+Neo Mind is based Neo-quitter.
 
 
 Setup
 -----
 
-1. Add the directory neo-quitter to your /theme/ folder
+1. Add the directory neo-mind to your /theme/ folder
 
-2. add `$config['site']['theme'] = 'neo-quitter';` to config.php
+2. add `$config['site']['theme'] = 'neo-mind';` to config.php
 
 Credits
 -------
