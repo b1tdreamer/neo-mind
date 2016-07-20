@@ -4,8 +4,7 @@ Neo Mind
 * Author:    b1tdreamer (<b1tdreamer@collectivemind.es>)
 * Last mod.: July 2016
 * Version:   1
-* GitHub:    <https://github.com/b1tdreamer/GnuSocial-Dark-Theme/>
-* Based on:    <https://github.com/hannesmannerheim/neo-quitter>
+* GitHub:    <https://github.com/b1tdreamer/neo-mind/>
 
 Neo Mind is free  software:  you can  redistribute it  and / or  modify it
 under the  terms of the GNU Affero General Public License as published by
@@ -23,7 +22,7 @@ along with Neo Quitter. If not, see <http://www.gnu.org/licenses/>.
 About
 -----
 
-Neo Mind is based Neo-quitter.
+Neo Mind is based Neo-quitter (https://github.com/hannesmannerheim/neo-quitter).
 
 
 Setup
