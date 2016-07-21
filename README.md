@@ -24,6 +24,10 @@ About
 
 Neo Mind is based Neo-quitter (https://github.com/hannesmannerheim/neo-quitter).
 
+Screenshot
+----------
+
+<img src="http://collectivemind.es/2.0/img/logo.png">
 
 Setup
 -----
